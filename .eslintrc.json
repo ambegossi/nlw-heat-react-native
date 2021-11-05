@@ -51,7 +51,8 @@
     "react/react-in-jsx-scope": "off",
     "prettier/prettier": "error",
     "import/prefer-default-export": "off",
-    "camelcase": "off"
+    "camelcase": "off",
+    "react/style-prop-object": "off"
   },
   "settings": {
     "import/resolver": {
