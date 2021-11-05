@@ -52,7 +52,8 @@
     "prettier/prettier": "error",
     "import/prefer-default-export": "off",
     "camelcase": "off",
-    "react/style-prop-object": "off"
+    "react/style-prop-object": "off",
+    "react/require-default-props": "off"
   },
   "settings": {
     "import/resolver": {
