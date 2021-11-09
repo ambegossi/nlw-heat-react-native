@@ -53,7 +53,8 @@
     "import/prefer-default-export": "off",
     "camelcase": "off",
     "react/style-prop-object": "off",
-    "react/require-default-props": "off"
+    "react/require-default-props": "off",
+    "react/jsx-props-no-spreading": "off"
   },
   "settings": {
     "import/resolver": {
